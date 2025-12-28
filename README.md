@@ -14,7 +14,7 @@ https://randomuser.me/api
 
 
 * How to Open the Project in VS Code
-A] Step1 
+A] Step 1  
 Clone the Repository
 git clone https://github.com/dannymhalskar4/Eastvantage-Assignment.git
 
@@ -31,6 +31,7 @@ Run the Application Locally
 Start the development server: 
 npm run dev
 
-e] The application will be available at:
+e] Step 5
+The application will be available at:
 localhost 
 copy localhost link and open in any browser.
