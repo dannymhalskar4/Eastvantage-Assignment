@@ -1,65 +1,36 @@
-# Eastvantage Assignment – React + TypeScript Application
+Eastvantage Assignment – React + TypeScript Application
 
 This project is a React application built using **TypeScript (.tsx)**.  
 It fetches and displays a random user’s **full name** and **email address** from the public API:
-
 https://randomuser.me/api
 
-The application demonstrates async data fetching, React Hooks, localStorage usage, and clean component-based architecture.
 
----
-
-## 🎯 Assignment Goal
-
-Create a React application page that:
-- Displays the **full name** and **email address** of a user
-- Fetches data asynchronously from the API
-- Stores fetched data in **localStorage**
-- Allows refreshing the user data without reloading the page
-- Uses functional components and React Hooks
-- Is written in **TypeScript (.tsx)**
-
----
-
-## 🚀 Features
-
-- Axios used for API fetching (npm module)
-- Async / Await implementation
-- Response destructuring to extract required fields
-- Data persistence using localStorage
-- Refresh button to fetch a new user
-- Functional components with React Hooks
-- Type-safe code using TypeScript
-- Clean and readable UI
-
----
-
-## 🛠️ Tech Stack
-
+1} Tech Stack
 - React
 - TypeScript
 - Vite
 - Axios
 - HTML & CSS
 
----
 
-## 📦 Prerequisites
-
-Ensure the following are installed:
-
-- **Node.js** (v16 or above)  
-  https://nodejs.org
-- **npm** (comes with Node.js)
-- **Visual Studio Code**  
-  https://code.visualstudio.com
-- **Git**
-
----
-
-## 📂 How to Open the Project in VS Code
-
-### 1️⃣ Clone the Repository
-
-```bash
+* How to Open the Project in VS Code
+A] Step1 
+Clone the Repository
 git clone https://github.com/dannymhalskar4/Eastvantage-Assignment.git
+
+B] Step 2
+Navigate to Project Folder
+cd Eastvantage-Assignment
+
+c] Step 3
+Open the VS Code terminal and run:
+npm install
+
+d] Step 4
+Run the Application Locally
+Start the development server: 
+npm run dev
+
+e] The application will be available at:
+localhost 
+copy localhost link and open in any browser.
